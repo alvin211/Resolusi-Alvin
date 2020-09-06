@@ -4,4 +4,6 @@ Resolusi Alvin kedepanya Adalah
 - Membuat Halaman Siswa
 -Membuat Toko online
 - Membuat Movie Detail Sinopsis
-3. Mennguasai Web Securty
+3. Menguasai Web Securty
+4. Menguasai Javascript React 
+5. Megusasai Javascrit Node Js
