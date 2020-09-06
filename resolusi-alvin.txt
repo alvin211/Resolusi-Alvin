@@ -1,0 +1,7 @@
+Resolusi Alvin kedepanya Adalah 
+1. Menguasai Backend Semuanya
+2. Mengerti Laravel Project,Seperti
+- Membuat Halaman Siswa
+-Membuat Toko online
+- Membuat Movie Detail Sinopsis
+3. Mennguasai Web Securty
