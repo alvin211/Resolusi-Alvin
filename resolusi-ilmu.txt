@@ -4,5 +4,6 @@ Resolusi Saya Bila Kelar Semua Kontentya BACKEND
 2.Belajar Web Security
 3.Belajar Javascript
 - MongoDB
-4.Belajar Struktur Dasar Data
+- React Js 
+
 
