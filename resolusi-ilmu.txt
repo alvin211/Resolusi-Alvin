@@ -2,5 +2,8 @@ Resolusi Saya Bila Kelar Semua Kontentya BACKEND
 
 1. Belajar Bostrap 4
 2.Belajar Web Security
-3.Belajar Javascript 
-- Mongodb
+3.Belajar Javascript
+- MongoDB
+- React Js 
+
+
